@@ -1,5 +1,5 @@
-# NullBug
-*By Elite Digital Security*
+![EDS](assets/eds.png)
+# NullBug (*By Elite Digital Security*)
 ---
 |Project Info|
 |---|
